@@ -1,0 +1,5 @@
+Resumo dos alunos:
+Ana: média 8.00 - Aprovado(a)
+Bia: média 5.00 - Em recuperação
+Caio: média 3.00 - Reprovado(a)
+Alunos aprovados: 1 de 3
